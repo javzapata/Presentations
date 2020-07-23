@@ -17,15 +17,17 @@ Check [here](https://github.com/javzapata/Presentations/blob/master/Bootstrap%20
 
 <img src="https://github.com/javzapata/Presentations/blob/master/figs/Bootstrap%20for%20Functional%20Regression_fig.png" width="400" >
 
-## Kernel Methods for Machine Learnig: Kernel Mean Matching for Covariate Shift
+## Kernel Methods for Machine Learning: Kernel Mean Matching for Covariate Shift
 Check [here](https://github.com/javzapata/Presentations/blob/master/covariate%20shift%20presentation.pdf)
 
 <img src="https://github.com/javzapata/Presentations/blob/master/figs/covariate%20shift%20presentation_fig.png" width="400" >
 
-## Extending Correlation and Regression from Multivariate to Functional Data
+## Functinal Data Analysis: Extending Correlation and Regression from Multivariate to Functional Data
 Check [here](https://github.com/javzapata/Presentations/blob/master/Extending%20Correlation%20and%20Regression%20from%20Multivariate%20to%20Functional%20Data.pdf)
 
-<img src="https://github.com/javzapata/Presentations/blob/master/figs/covariate%20shift%20presentation_fig.png" width="400" >
+<img src="https://github.com/javzapata/Presentations/blob/master/figs/Extending%20Correlation%20and%20Regression%20from%20Multivariate%20to%20Functional%20Data_fig.png" width="400" >
 
-## Extending Correlation and Regression from Multivariate to Functional Data
-Check [here](https://github.com/javzapata/Presentations/blob/master/Extending%20Correlation%20and%20Regression%20from%20Multivariate%20to%20Functional%20Data.pdf)
+## Data Science: NYC Open Data
+Check [here](https://github.com/javzapata/Presentations/blob/master/NYCOpenData.pdf)
+
+<img src="https://github.com/javzapata/Presentations/blob/master/figs/NYCOpenData_fig.png" width="400" >
