@@ -7,6 +7,14 @@ Presentations I have prepared for different courses and lab seminar throughout m
 ### Regularization: Dropout Method
 Check [here](https://github.com/javzapata/Presentations/raw/master/Deep_Learning_Dropout.pdf)
 
+References: 
+  + Gareth,J., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning: With applications in R. Springer: Chicago.
+  + Hastie, T., Tibshirani, R. , & Friedman, J. . (2011) The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd ed., Springer: New York
+  + Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: A Simple Way to Prevent Neural Networks from Overfitting. Journal of Machine Learning Research, 15, 19291958.
+  + Wan, L., Zeiler, M., Zhang, S., LeCun, Y., & Fergus, R. (2013). Regularization of neural networks using dropconnect. ICML, (1), 109111.
+  + Zaremba, W., Sutskever, I., & Vinyals, O. (2014). Recurrent Neural Network Regularization, (2013), 18.
+
+
 <img src="https://github.com/javzapata/Presentations/blob/master/figs/Deep_Learning_Dropout_fig.png" width="400" >
 
 ### Variational Autoencoders with Correlated Latent Features
