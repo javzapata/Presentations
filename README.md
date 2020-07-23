@@ -35,10 +35,17 @@ References:
 ### Bootstrap for Functional Regression
 Check [here](https://github.com/javzapata/Presentations/blob/master/Bootstrap%20for%20Functional%20Regression.pdf)
 
+References:
++ Ferraty et al (2010) - On the Validity of the Bootstrap in Non-Parametric Functional Regression
+
 <img src="https://github.com/javzapata/Presentations/blob/master/figs/Bootstrap%20for%20Functional%20Regression_fig.png" width="400" >
 
 ## Extending Correlation and Regression from Multivariate to Functional Data
 Check [here](https://github.com/javzapata/Presentations/blob/master/Extending%20Correlation%20and%20Regression%20from%20Multivariate%20to%20Functional%20Data.pdf)
+
+References:
++ Conway – A Course in Functional Analysis, 2nd edition , 1990, Chapter 5* - The Diagonalization of Compact Self-Adjoint Operators
++ He, Mueller & Wang - Extending correlation and regression from multivariate to functional data , 2000.
 
 <img src="https://github.com/javzapata/Presentations/blob/master/figs/Extending%20Correlation%20and%20Regression%20from%20Multivariate%20to%20Functional%20Data_fig.png" width="400" >
 
@@ -46,6 +53,9 @@ Check [here](https://github.com/javzapata/Presentations/blob/master/Extending%20
 
 ### Kernel Methods for Machine Learning: Kernel Mean Matching for Covariate Shift
 Check [here](https://github.com/javzapata/Presentations/blob/master/covariate%20shift%20presentation.pdf)
+
+References:
++ Quinonero – Dataset Shift in Machine Learning (2012)
 
 <img src="https://github.com/javzapata/Presentations/blob/master/figs/covariate%20shift%20presentation_fig.png" width="400" >
 
@@ -66,6 +76,9 @@ References:
 
 ### Doubly Functional Graphical Models in High Dimensions
 Check [here](https://github.com/javzapata/Presentations/blob/master/Doubly%20Functional%20Graphical%20Models%20in%20High%20Dimensions.pdf)
+
+References: 
++ Qiao, Qian & James - Doubly Functional Graphical Models in High Dimensions (2019)
 
 <img src="https://github.com/javzapata/Presentations/blob/master/figs/Doubly%20Functional%20Graphical%20Models%20in%20High%20Dimensions_fig.png" width="400" >
 
