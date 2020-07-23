@@ -1,6 +1,6 @@
 # Presentations
 
-Presentations I have prepred for different courses and lab seminar throughout my PhD
+Presentations I have prepared for different courses and lab seminar throughout my PhD
 
 ## Deep Learning
 
