@@ -24,3 +24,8 @@ Check [here](https://github.com/javzapata/Presentations/blob/master/covariate%20
 
 ## Extending Correlation and Regression from Multivariate to Functional Data
 Check [here](https://github.com/javzapata/Presentations/blob/master/Extending%20Correlation%20and%20Regression%20from%20Multivariate%20to%20Functional%20Data.pdf)
+
+<img src="https://github.com/javzapata/Presentations/blob/master/figs/covariate%20shift%20presentation_fig.png" width="400" >
+
+## Extending Correlation and Regression from Multivariate to Functional Data
+Check [here](https://github.com/javzapata/Presentations/blob/master/Extending%20Correlation%20and%20Regression%20from%20Multivariate%20to%20Functional%20Data.pdf)
