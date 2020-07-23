@@ -20,6 +20,14 @@ References:
 ### Variational Autoencoders with Correlated Latent Features
 Check [here](https://github.com/javzapata/Presentations/raw/master/VAEpresentation.pdf)
 
+References:
++ Courville - Variational Autoencoder and Extensions(http://videolectures.net/deeplearning2015_courville_autoenco der_extension/)
++ Wang - Deep Generative Models (http://www.cs.toronto.edu/~slwang/generative_model.pdf)
++ Way et. al. - Extracting a biologically relevant latent space from cancer transcriptomes with variational autoencoders (2018)
++ Kingma et al - Auto-Encoding Variational Bayes (2014)
++ Rezende et al - Stochastic back-propagation and variational inference in deep latent Gaussian models (2014)
++ Casale et al – Gaussian Process Prior Variational Autoencoders (2018)
+
 <img src="https://github.com/javzapata/Presentations/blob/master/figs/VAEpresentation_fig.png" width="400" >
 
 ## Functional Data Analysis: 
@@ -51,6 +59,9 @@ Check [here](https://github.com/javzapata/Presentations/blob/master/NYCOpenData.
 ### Sparse Matrix Graphical Models
 Check [here](https://github.com/javzapata/Presentations/blob/master/Sparse%20Matrix%20Graphical%20Models.pdf)
 
+References: 
+ + Chenlei Leng & Cheng Yong Tang - Sparse Matrix Graphical Models (2012)
+
 <img src="https://github.com/javzapata/Presentations/blob/master/figs/Sparse%20Matrix%20Graphical%20Models_fig.png" width="400" >
 
 ### Doubly Functional Graphical Models in High Dimensions
@@ -60,6 +71,10 @@ Check [here](https://github.com/javzapata/Presentations/blob/master/Doubly%20Fun
 
 ### Selected Papers on Multilevel Graphical Models
 Check [here](https://github.com/javzapata/Presentations/blob/master/Selected%20Papers%20on%20Multilevel%20Graphical%20Models.pdf)
+
+References:
++ Pircalabelu et al (2020) - Zoom-in–out joint graphical lasso for different coarseness scales
++ Zhang et al (2019) - A random covariance model for bi-level graphical modeling with application to resting-state fMRI data
 
 <img src="https://github.com/javzapata/Presentations/blob/master/figs/Selected%20Papers%20on%20Multilevel%20Graphical%20Models_fig.png" width="400" >
 
