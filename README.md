@@ -5,3 +5,12 @@ Presentations I have prepred for different courses and lab seminar throughout my
 ## Deep Learning - Dropout Method
 ![](https://github.com/javzapata/Presentations/blob/master/figs/Deep_Learning_Dropout_fig.png)
 Check [here](https://github.com/javzapata/Presentations/raw/master/Deep_Learning_Dropout.pdf)
+
+## Deep Learning - Variational Autoencoders with Correlated Latent Features
+![](https://github.com/javzapata/Presentations/blob/master/figs/VAEpresentation_fig.png)
+Check [here](https://github.com/javzapata/Presentations/raw/master/VAEpresentation.pdf)
+
+## Deep Learning - Variational Autoencoders with Correlated Latent Features
+![](https://github.com/javzapata/Presentations/blob/master/figs/VAEpresentation_fig.png)
+Check [here](https://github.com/javzapata/Presentations/raw/master/VAEpresentation.pdf)
+
